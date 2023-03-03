@@ -1,7 +1,7 @@
 package com.flycode.data.constant;
 
 public class Setting {
-    private String TESTVALUE = "testValue";
+    private String TESTVALUE = "人工智能";
 
     public String getTESTVALUE() {
         return TESTVALUE;
